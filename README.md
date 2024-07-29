@@ -2,7 +2,7 @@
 
 Aplikasi ini masih tahap beta (butuh tes lagi), jadi mohon gunakan hanya jika XAMPP sudah tidak bisa diperbaiki lagi kecuali dengan cara uninstall.
 
-Download aplikasinya [disini](https://github.com/isnakode/mysql-fix)
+Download aplikasinya [disini](https://github.com/isnakode/fix-mysql/raw/main/mysql.msix)
 
 Mohon [vote](https://strawpoll.com/NPgxeEbAAZ2) jika MySQLmu berhasil diperbaiki 
 
