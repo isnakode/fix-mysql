@@ -1,0 +1,34 @@
+name: mysql
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.5.0+1
+
+environment:
+  sdk: '>=3.4.4 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.6
+  filepicker_windows: ^2.1.4
+  path: ^1.9.0
+  toastification: ^2.1.0
+  url_launcher: ^6.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  msix: ^3.16.7
+
+
+flutter:
+  uses-material-design: true
+  assets:
+    - image/github.png
+
+msix_config:
+  display_name: Fix MySQL
+  publisher_display_name: isnakode
+  identity_name: com.isnakode.fixmysql
+  msix_version: 0.5.0.0
